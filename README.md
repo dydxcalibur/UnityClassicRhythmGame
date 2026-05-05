@@ -1,2 +1,2 @@
 # UnityClassicRhythmGame
-A classic Unity falling note rhythm game
+A classic falling note rhythm game based in Unity 2D
