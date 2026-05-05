@@ -1,0 +1,15 @@
+{
+  "songs": [
+    {
+      "id": "0",
+      "title": "初音天地開闢神話",
+      "artist": "cosMo@暴走P",
+      "difficulty": ["Easy", "Mid", "Hard"],
+      "bpm": 240,
+      "chartFile": ["mikuBuildWorldEasy.json", "mikuBuildWorldMid.json", "mikuBuildWorldHard.json"],
+      "audioFile": "mikuBuildWorld.mp3",
+      "cover": "mikuBuildWorld.png",
+      "offsetMs": -20
+    }
+  ]
+}

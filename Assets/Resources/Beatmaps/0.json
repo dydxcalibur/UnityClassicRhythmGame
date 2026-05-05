@@ -1,0 +1,37 @@
+{
+	"title": "My Song",
+	"artist": "Artist Name",
+	"difficulty": "Easy",
+	"bpm": 120,
+	"offset": 0.5,
+	"lanes": 4,
+	"notes": [
+		{
+			"beat": 0.5,"lane": 0, "type": "tap"
+		},
+		{
+			"beat": 0.5,"lane": 2, "type": "tap"
+		},
+		{
+			"beat": 2.0,"lane": 3, "type": "tap"
+		},
+		{
+			"beat": 2.0,"lane": 1, "type": "tap"
+		},
+		{
+			"beat": 3.5,"lane": 0, "type": "tap"
+		},
+		{
+			"beat": 4.0,"lane": 2, "type": "tap"
+		},
+		{
+			"beat": 5.0,"lane": 1, "type": "tap"
+		},
+		{
+			"beat": 5.0,"lane": 3, "type": "tap"
+		},
+		{
+			"beat": 6.5,"lane": 0, "type": "tap"
+		}
+	]
+}

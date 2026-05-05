@@ -1,0 +1,46 @@
+{
+	"title": "初音天地開闢神話",
+	"artist": "cosMo@暴走P",
+    "difficulty": "Easy",
+	"bpm": 240,
+	"offset": 2.0,
+	"lanes": 4,
+	"notes": [
+		{
+			"beat": 0.0,"lane": 0, "type": "tap"
+		},
+		{
+			"beat": 0.0,"lane": 2, "type": "tap"
+		},
+		{
+			"beat": 1.0,"lane": 1, "type": "tap"
+		},
+		{
+			"beat": 1.0,"lane": 3, "type": "tap"
+		},
+		{
+			"beat": 2.0,"lane": 0, "type": "tap"
+		},
+		{
+			"beat": 2.0,"lane": 2, "type": "tap"
+		},
+		{
+			"beat": 3.0,"lane": 1, "type": "tap"
+		},
+		{
+			"beat": 3.0,"lane": 3, "type": "tap"
+		},
+		{
+			"beat": 4.0,"lane": 0, "type": "tap"
+		},
+		{
+			"beat": 5.0,"lane": 1, "type": "tap"
+		},
+		{
+			"beat": 6.0,"lane": 0, "type": "tap"
+		},
+		{
+			"beat": 7.0,"lane": 1, "type": "tap"
+		}
+	]
+}
